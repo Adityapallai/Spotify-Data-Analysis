@@ -56,4 +56,4 @@ Real-world application of KPIs in music analytics
 🚀 Outcome:
 This project transformed raw, unstructured Spotify playback data into a professional BI solution. It helps demonstrate your capability in handling real-world datasets, creating powerful insights using Power BI, and presenting information in a clear and engaging way.
 
-screenshot of dashboard-
+screenshot of dashboard- spotify_dashboard.png
